@@ -1,5 +1,5 @@
 <h1 align="center">Eae 👋, muito prazer, me chamo Wallace Virginio</h1>
-<h3 align="center">Sou apenas um jovem programador em busca de desafios e muitas xícaras de café, estou estudando bastante para ser um FullStack.</h3>
+<h3 align="center">Sou apenas um jovem programador em busca de desafios e de muitas xícaras de café, estou estudando bastante para ser um FullStack.</h3>
 
 
 
