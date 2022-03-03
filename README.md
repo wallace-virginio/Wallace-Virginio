@@ -20,6 +20,7 @@
 </div>
 </p>
 
+![Snake animation](https://github.com/wallace-virginio/wallace-virginio/blob/output/github-contribution-grid-snake.svg)
 
                                                                                                                
 <h3 align="left">Linguagens e Ferramentas: </h3>
