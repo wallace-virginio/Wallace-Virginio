@@ -1,7 +1,12 @@
 <h1 align="center">Eae 👋, muito prazer, me chamo Wallace Virginio</h1>
 <h3 align="center">Sou apenas um jovem programador em busca de desafios e de muitas xícaras de café, estou estudando bastante para ser um FullStack.</h3>
+<br>
 
+## 🔥 Estatísticas
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wallace-virginio&theme=algolia" alt="wallace-virginio" /></p>
 
+<br>
+<br>
 
 <div>
    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wallace-virginio&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
