@@ -3,7 +3,7 @@
 <br>
 
 ## 🔥 Estatísticas
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wallace-virginio&theme=algolia" alt="wallace-virginio" /></p>
+<img src="https://raw.githubusercontent.com/wallace-virginio/wallace-virginio/output/snake.svg" alt="Snake animation" />
 
 <br>
 <br>
