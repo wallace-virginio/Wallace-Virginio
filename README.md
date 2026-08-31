@@ -3,10 +3,6 @@
 <br>
 
 ## 🔥 Estatísticas
-<img src="https://raw.githubusercontent.com/wallace-virginio/wallace-virginio/output/snake.svg" alt="Snake animation" />
-
-<br>
-<br>
 
 <div>
    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wallace-virginio&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
